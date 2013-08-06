@@ -1,4 +1,4 @@
 azuresite
 =========
 
-Node.js one Azure
+Node.js on Azure
